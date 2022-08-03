@@ -1,0 +1,12 @@
+{
+  "name": "the-todo",
+  "version": "1.0.0",
+  "description": "The ToDo App",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon backend/server.js",
+    "client": "npm start --prefix frontend"
+  },
+  "author": "Naveenchand",
+  "license": "ISC"
+}
